@@ -1,4 +1,4 @@
-# Courera Machine Learning Specialization - Extra Assignments for Greater Learning
+# Coursera Machine Learning Specialization - Extra Assignments for Greater Learning
 
 ## Intro:
 I'm taking the Courera Machine Learning Specialization by University of Washington. To further my learning I have created extra assignments for myself, forcing me to code up concepts from scratch.  
