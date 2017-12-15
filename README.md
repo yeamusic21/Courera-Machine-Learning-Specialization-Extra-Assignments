@@ -6,5 +6,5 @@ I'm taking the Courera Machine Learning Specialization by University of Washingt
 ## Tools:
 Most of these workbooks will be coded in Python, and most likely with emphasis on numpy.
 
-## Summary
+## Summary:
 This repository is to share my learnings and code for anyone elses use or further development in the field.
